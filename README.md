@@ -52,7 +52,7 @@
 
 **Рисование:** Удерживайте левую кнопку мыши и перемещайте курсор по рабочей области, чтобы рисовать.
 
-![click](https://github.com/IvanVolkogonov/md-test2-/blob/main/kistt.mp4)
+![click](https://github.com/IvanVolkogonov/md-test2-/blob/main/kistt.mov)
 
 **3.2 Карандаш**
 
