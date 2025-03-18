@@ -19,7 +19,7 @@
    ![клик](https://github.com/IvanVolkogonov/md-test2-/blob/main/Menu.png)
 
 **Файл**: Открытие, сохранение, создание нового файла.
-
+![Click](https://github.com/IvanVolkogonov/md-test2-/blob/main/file.png)
 **Правка**: Копирование, вставка, вырезание и отмена действий.
 
 **Просмотр**: Настройки отображения.
