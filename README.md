@@ -94,7 +94,8 @@
 **Выбор формата:** Выберите нужный формат (например, PNG, JPEG) из выпадающего списка.
 
 **Указание имени файла:** Введите имя файла и выберите папку для сохранения. Нажмите «Сохранить».
-! [click](https://github.com/IvanVolkogonov/md-test2-/blob/main/Save.png)
+![click](https://github.com/IvanVolkogonov/md-test2-/blob/main/Save.png)
+
 ---
 ### **5. Дополнительные функции**
 
